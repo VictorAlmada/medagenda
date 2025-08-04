@@ -1,0 +1,7 @@
+AMANHÃ FAREMOS:
+
+- Filtro de consultas por data, médico ou paciente
+
+- Cancelamento de consultas com enum StatusConsulta e motivo
+
+- Implementar testes unitários e de integração para essa camada
